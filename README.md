@@ -10,7 +10,7 @@ Questo progetto mette a confronto due tra i più noti algoritmi di Machine Learn
 
 Il grafico sottostante mostra la distribuzione dell'accuratezza ottenuta tramite una **10-Fold Cross-Validation**. Questo metodo permette di verificare la stabilità dei modelli su diverse porzioni del dataset, eliminando l'influenza della casualità nella suddivisione dei dati.
 
-![Confronto Accuratezza](./images\confronto_svm_knn.png)
+![Confronto Accuratezza](./images/confronto_svm_knn.png)
 
 ### Verdetto Tecnico
 
